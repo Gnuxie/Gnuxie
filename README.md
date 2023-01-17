@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Gnuxie/Gnuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am working on my own object capability language substrate [VM](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html).
+
+I have previously worked on abuse mitigation tooling at [@matrix-org](https://github.com/matrix-org) & [@vector-im](https://github.com/vector-im).
+
+I consider myself a dynamic-interactive object systems hacker and computing maximalist. If you want to learn more about what this means then you should checkout the [blog](https://applied-langua.ge/posts/) that I co-author with [@no-defun-allowed](https://github.com/no-defun-allowed).
+
+If you are still interested, then you are welcome to read my [résumé](https://applied-langua.ge/~gnuxie/documents/CV_Lulamoon.pdf).
