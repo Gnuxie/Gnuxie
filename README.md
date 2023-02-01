@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am working on my own object capability language substrate [VM](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html).
+Hi, I am working on my [own](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html) substrate virtual machine for a new generation of capability based dynamic-interactive programming languages and maintaining [Draupnir](https://github.com/Gnuxie/Draupnir), an open-source moderation tool for [Matrix](https://matrix.org).
 
-I have previously worked on abuse mitigation tooling at [@matrix-org](https://github.com/matrix-org) & [@vector-im](https://github.com/vector-im).
+I have previously worked on and provided support for open-source abuse mitigation tooling at [@matrix-org](https://github.com/matrix-org) & [@vector-im](https://github.com/vector-im).
 
 I consider myself a dynamic-interactive object systems hacker and computing maximalist. If you want to learn more about what this means then you should checkout the [blog](https://applied-langua.ge/posts/) that I co-author with [@no-defun-allowed](https://github.com/no-defun-allowed).
 
