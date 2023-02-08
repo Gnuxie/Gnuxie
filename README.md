@@ -22,3 +22,7 @@ I have previously worked on and provided support for open-source abuse mitigatio
 I consider myself a dynamic-interactive object systems hacker and computing maximalist. If you want to learn more about what this means then you should checkout the [blog](https://applied-langua.ge/posts/) that I co-author with [@no-defun-allowed](https://github.com/no-defun-allowed).
 
 If you are still interested, then you are welcome to read my [résumé](https://applied-langua.ge/~gnuxie/documents/CV_Lulamoon.pdf).
+
+If you appreciate the work that I'm doing and you really want to, then you can donate below. Thank you and thank you for reading <3
+
+<a href='https://ko-fi.com/Gnuxie' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
