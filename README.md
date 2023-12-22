@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello there, currently I am developing [Draupnir](https://github.com/Gnuxie/Draupnir), an open-source moderation tool for [Matrix](https://matrix.org).
-Draupnir is currently undergoing an intensive refactor that will result in the creation of a [library](https://github.com/Gnuxie/matrix-protecdtion-suite) with a powerful plugin interface that can be used by bots, web-clients and widgets alike.
+Draupnir is currently undergoing an intensive refactor that will result in the creation of a [library](https://github.com/Gnuxie/matrix-protection-suite) with a powerful plugin interface that can be used by bots, web-clients and widgets alike.
 In the background, I'm working on my [own](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html) substrate virtual machine for a new generation of capability based dynamic-interactive programming languages.
 
 I have previously worked on and provided support for open-source abuse mitigation tooling at [@matrix-org](https://github.com/matrix-org) & [@vector-im](https://github.com/vector-im).
