@@ -15,16 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there, currently I am developing [Draupnir](https://github.com/Gnuxie/Draupnir), an open-source moderation tool for [Matrix](https://matrix.org).
-Draupnir is currently undergoing an intensive refactor that will result in the creation of a [library](https://github.com/Gnuxie/matrix-protection-suite) with a powerful plugin interface that can be used by bots, web-clients and widgets alike.
-In the background, I'm working on my [own](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html) substrate virtual machine for a new generation of capability based dynamic-interactive programming languages.
+Hello, I am currently developing
+[Draupnir](https://github.com/Gnuxie/Draupnir), an open-source
+moderation platform for [Matrix](https://matrix.org).  Draupnir has
+undergone an intensive refactor that has resulted in the creation of a
+[library](https://github.com/Gnuxie/matrix-protection-suite) with a
+powerful plugin interface that can be used by bots, web-clients and
+widgets alike. Previously I have worked on abuse mitigation tooling at
+[@matrix-org](https://github.com/matrix-org) &
+[@vector-im](https://github.com/vector-im).
 
-I have previously worked on and provided support for open-source abuse mitigation tooling at [@matrix-org](https://github.com/matrix-org) & [@vector-im](https://github.com/vector-im).
+My long term project is an abstract machine that will serve as a
+substrate for a new generation of
+[capability-safe](https://en.wikipedia.org/wiki/Capability-based_security)
+dynamic-interactive programming languages.  This work is best
+described at the [utena introduction
+page](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html),
+although it's been awhile since I last updated this.
 
-I consider myself a dynamic-interactive object systems hacker and computing maximalist. If you want to learn more about what this means then you should checkout the [blog](https://applied-langua.ge/posts/) that I co-author with [@no-defun-allowed](https://github.com/no-defun-allowed).
+If you want to learn more about me, then you are welcome to read my
+[CV](https://applied-langua.ge/~gnuxie/documents/CV_Lulamoon.pdf).
 
-If you are still interested, then you are welcome to read my [CV](https://applied-langua.ge/~gnuxie/documents/CV_Lulamoon.pdf).
+If you appreciate the work that I'm doing and you really want to, then
+you can donate below.
 
-If you appreciate the work that I'm doing and you really want to, then you can donate below. Thank you 💜.
+Thank you 💜
 
 <a href='https://ko-fi.com/Gnuxie' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
