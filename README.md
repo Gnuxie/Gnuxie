@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I am maintainer of [Draupnir](https://github.com/Gnuxie/Draupnir),
 an open-source community management platform for
-[Matrix](https://matrix.org)
+[Matrix](https://matrix.org).
 
 Previously I have been employed by
 [@element-hq](https://github.com/element-hq) to work on Trust &
