@@ -36,7 +36,7 @@ page](https://applied-langua.ge/~gnuxie/posts/utena-introduction.html),
 although this is really old now and there are lots of mistakes.
 
 If you want to learn more about me, then you are welcome to view my
-[LinkedIn](www.linkedin.com/in/gnuxie-lulamoon-a4a1b9397).
+[LinkedIn](https://www.linkedin.com/in/gnuxie-lulamoon-a4a1b9397).
 
 If you appreciate the work that I'm doing and you really want to, then
 you can donate below.
